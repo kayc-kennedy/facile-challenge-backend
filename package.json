@@ -4,8 +4,9 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "start": "ts-node-dev --transpile-only --respawn --ignore-watch node_modules src/server.ts",
-    "typeorm": "ts-node-dev node_modules/typeorm/cli.js"
+    "dev": "ts-node-dev --transpile-only --respawn --ignore-watch node_modules src/server.ts",
+    "typeorm": "ts-node-dev node_modules/typeorm/cli.js",
+    "start":"ts-node src/server.ts"
   },
   "dependencies": {
     "crypto": "^1.0.1",
