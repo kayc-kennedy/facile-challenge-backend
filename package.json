@@ -20,5 +20,15 @@
     "@types/uuid": "^8.3.1",
     "ts-node-dev": "^1.1.8",
     "typescript": "^4.3.5"
-  }
+  },
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kayc-kennedy/facile-challenge-backend.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/kayc-kennedy/facile-challenge-backend/issues"
+  },
+  "homepage": "https://github.com/kayc-kennedy/facile-challenge-backend#readme"
 }
